@@ -8,9 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-./results
-./logs
 ./scripts/results
 *.pth
 *results*
-*logs*
